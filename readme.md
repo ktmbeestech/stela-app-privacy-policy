@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last Updated: May 21, 2026_
+*Last Updated: May 21, 2026*
 
 ## Overview
 
@@ -12,19 +12,21 @@ By using this application, you agree to the practices described in this Privacy 
 
 # Information We Collect
 
-When you sign in using Google Authentication, we may collect the following information:
+When you sign in using **Google Authentication** or **Sign in with Apple**, we may collect the following information:
 
-- Name
-- Email address
-- Profile photo URL
+* Name
+* Email address
+* Profile photo URL (when available)
+
+Please note that Apple may provide a private relay email address instead of your personal email, depending on your Apple account privacy settings.
 
 Additionally, the application securely stores:
 
-- Tasks
-- Task descriptions
-- Reminder schedules
-- Recurring task configurations
-- Notification preferences
+* Tasks
+* Task descriptions
+* Reminder schedules
+* Recurring task configurations
+* Notification preferences
 
 ---
 
@@ -32,13 +34,24 @@ Additionally, the application securely stores:
 
 The collected information is used solely to provide and improve application functionality, including:
 
-- Managing your tasks and reminders
-- Scheduling recurring events
-- Sending push notifications and reminders
-- Synchronizing data across your devices
-- Improving user experience and application stability
+* Managing your tasks and reminders
+* Scheduling recurring events
+* Sending push notifications and reminders
+* Synchronizing data across your devices
+* Improving user experience and application stability
 
 We do **not** sell, rent, or share your personal information with third parties.
+
+---
+
+# Authentication Services
+
+This application supports secure authentication through trusted third-party providers, including:
+
+* Google Authentication
+* Sign in with Apple
+
+These providers may share limited account information necessary for login and account management, subject to their own privacy policies and user settings.
 
 ---
 
@@ -46,9 +59,9 @@ We do **not** sell, rent, or share your personal information with third parties.
 
 We take appropriate security measures to protect your information.
 
-- All communications are encrypted using secure HTTPS protocols.
-- Authentication tokens are securely stored on your device.
-- Sensitive information is protected against unauthorized access.
+* All communications are encrypted using secure HTTPS protocols.
+* Authentication tokens are securely stored on your device.
+* Sensitive information is protected against unauthorized access.
 
 ---
 
@@ -66,11 +79,11 @@ You have full control over your data.
 
 At any time, you may permanently delete your account through the application's Settings section. Once deleted:
 
-- All tasks
-- Notification history
-- Device tokens
-- Profile information
-- Stored preferences
+* All tasks
+* Notification history
+* Device tokens
+* Profile information
+* Stored preferences
 
 will be permanently removed from our systems.
 
@@ -80,8 +93,9 @@ will be permanently removed from our systems.
 
 This application may use trusted third-party services including:
 
-- Google Authentication
-- Firebase Cloud Messaging (FCM)
+* Google Authentication
+* Sign in with Apple
+* Firebase Cloud Messaging (FCM)
 
 These services may process limited information necessary for authentication and notification delivery.
 
