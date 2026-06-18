@@ -12,11 +12,13 @@ By using this application, you agree to the practices described in this Privacy 
 
 # Information We Collect
 
-When you sign in using Google Authentication, we may collect the following information:
+When you sign in using **Google Authentication** or **Sign in with Apple**, we may collect the following information:
 
 - Name
 - Email address
-- Profile photo URL
+- Profile photo URL (when available)
+
+Please note that Apple may provide a private relay email address instead of your personal email, depending on your Apple account privacy settings.
 
 Additionally, the application securely stores:
 
